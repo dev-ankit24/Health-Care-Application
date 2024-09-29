@@ -2,9 +2,12 @@
 
 The HealthCare Service Application would be  a front-end user interface built with React JS and bootstrap. 
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Create Service
+- Update Service
+- Delete Service
+- Get All Service
 
 ### `npm start`
 
