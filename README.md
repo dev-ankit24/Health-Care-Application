@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# HealthCare Service Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The HealthCare Service Application would be  a front-end user interface built with React JS and bootstrap. 
 
 ## Available Scripts
 
